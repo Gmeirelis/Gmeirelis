@@ -1,5 +1,5 @@
 
-# Bem-vindo, Meu nome é guilherme Meireles 
+# Bem-vindo, Meu nome é Guilherme Meireles 
 
 # 💫 About Me:
 Developer front-end
