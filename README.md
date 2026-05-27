@@ -8,7 +8,7 @@
 
 
 # 💫 Sobre mim:
-Sou desenvolvedor front-end com foco em construção de aplicações completas, desde a interface até a integração com banco de dados.<br>Tenho experiência com JavaScript, React, Firebase e criação de sistemas reais como apps de pedidos 
+Sou desenvolvedor front-end com foco em construção de aplicações completas, desde a interface até a integração com banco de dados.<br>Tenho experiência com JavaScript, React e criação de sistemas reais como apps de pedidos 
 
 
 ## 🌐 Socials:
