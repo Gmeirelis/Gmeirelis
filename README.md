@@ -16,7 +16,7 @@ Venho da área de TI, com experiência em redes, firewall, Active Directory, Mic
 
 **📦 Sistema de Controle de Estoque e Empréstimos**  
 Aplicação web para gerenciar estoque e empréstimos de itens, com interface em português.  
-`React` `Tailwind CSS`  
+`React` `Tailwind CSS` `Node.js` `Express` `Mysql`
 🔗 [Ver repositório](COLE-O-LINK-AQUI)
 
 ## 🎓 Formação
