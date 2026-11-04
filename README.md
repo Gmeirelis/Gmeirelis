@@ -1,35 +1,52 @@
-# 👋 Olá, meu nome é Guilherme Meireles
+# 👋 Olá, eu sou o Guilherme Meireles
 
-📒 Desenvolvedor Front-End
-
-📍 Boa-Vista - RR
-
-💼 Suporte T.I junior
-
-
-# 💫 Sobre mim:
-
-Sou desenvolvedor Front-end focado na criação de interfaces modernas, responsivas e funcionais. Trabalho principalmente com React, JavaScript, Tailwind CSS e consumo de APIs, buscando sempre unir performance, organização de código e boa experiência do usuário. Tenho interesse constante em evoluir minhas habilidades em desenvolvimento web, UI/UX e integração com back-end, além de experiência prática com tecnologia e suporte em TI.
-
-#  🎓 Formação
-
-👨‍🎓 Analise e desenvolvimento de sistemas
-
-# 🚀 Objetivo
-Meu objetivo é conquistar minha primeira oportunidade como Desenvolvedor Front-end, aplicando meus conhecimentos em React, JavaScript, HTML, CSS e Tailwind CSS no desenvolvimento de interfaces modernas e responsivas. Busco crescer profissionalmente, adquirir experiência prática em projetos reais e evoluir constantemente minhas habilidades técnicas dentro da área de desenvolvimento web.
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/guimeireleslima) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gmeirelis8@gmail.com) 
-
-# 💻 Linguagens e tecnologias:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white).![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-# 📊 Estatistica:
-![](https://github-readme-stats.shion.dev/api?username=gmeirelis&theme=vue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=gmeirelis&theme=vue&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=gmeirelis&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+📍 Boa Vista - RR  
+💻 Desenvolvedor | React.js • Tailwind CSS • Java  
+🛠️ Experiência em infraestrutura e suporte de TI
 
 ---
-[![](https://komarev.com/ghpvc/?username=gmeirelis&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 Sobre mim
+
+Desenvolvedor focado em criar interfaces modernas, responsivas e funcionais com **React.js** e **Tailwind CSS**, e também trabalho com **Java**. Gosto de unir código limpo, boa experiência de usuário e soluções que resolvem problemas reais.
+
+Venho da área de TI, com experiência em redes, firewall, Active Directory, Microsoft Azure e suporte a sistemas. Isso me dá uma visão prática de como o software é usado no dia a dia das empresas.
+
+## 🚀 Em destaque
+
+**📦 Sistema de Controle de Estoque e Empréstimos**  
+Aplicação web para gerenciar estoque e empréstimos de itens, com interface em português.  
+`React` `Tailwind CSS`  
+🔗 [Ver repositório](COLE-O-LINK-AQUI)
+
+## 🎓 Formação
+
+Análise e Desenvolvimento de Sistemas
+
+## 🎯 Objetivo
+
+Crescer como desenvolvedor, atuando em projetos reais e evoluindo minhas habilidades em front-end e back-end.
+
+## 💻 Tecnologias
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+## 🌐 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU-LINK-DO-LINKEDIN)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gmeirelis8@gmail.com)
+
+## 📊 Estatísticas
+
+![Streak](https://streak-stats.demolab.com?user=Gmeirelis&theme=dark&hide_border=true)
