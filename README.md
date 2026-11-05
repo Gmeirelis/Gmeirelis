@@ -33,7 +33,7 @@ Aplicação web para gerenciar estoque e empréstimos de itens, com interface em
 
 ##  Formação
 
-Análise e Desenvolvimento de Sistemas
+Análise e Desenvolvimento de Sistemas | 2023 - 2025 | Estacio
 
 ## Objetivo
 
