@@ -37,7 +37,8 @@ Análise e Desenvolvimento de Sistemas | 2023 - 2025 | Estacio
 
 ## Objetivo
 
-Crescer como desenvolvedor, atuando em projetos reais e evoluindo minhas habilidades em front-end e back-end.
+Atuar como Desenvolvedor de Software, desenvolvendo soluções tecnológicas inovadoras para plataformas web e aplicativos mobile. Trabalhar com tecnologias Front-end e Back-end, participando de todas as etapas do desenvolvimento, desde a concepção e implementação das interfaces até a construção de APIs, integração com bancos de dados e implantação de aplicações.
+.
 
 ##  Tecnologias
 
