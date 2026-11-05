@@ -12,6 +12,9 @@ Desenvolvedor focado em criar interfaces modernas, responsivas e funcionais com 
 
 Venho da área de TI, com experiência em redes, firewall, Active Directory, Microsoft Azure e suporte a sistemas. Isso me dá uma visão prática de como o software é usado no dia a dia das empresas.
 
+##  Experiencia Proffisional
+
+
 ##  Em destaque
 
 ** Sistema de Controle de Estoque e Empréstimos**  
