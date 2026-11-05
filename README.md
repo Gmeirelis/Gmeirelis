@@ -14,18 +14,18 @@ Venho da área de TI, com experiência em redes, firewall, Active Directory, Mic
 
 ##  Experiencia Proffisional
 
-Técnico de Suporte de TI
+Técnico de Suporte de TI  01/2026 - Atual
 
 Gerencio o firewall da empresa, com configuração de regras e acessos e monitoramento da rede.
 Administro access points Unifi, garantindo cobertura e estabilidade do Wi-Fi.
 Presto suporte de hardware e software a usuários, com montagem, manutenção e configuração de equipamentos.
 Dou suporte ao ERP Protheus, atendendo dúvidas e resolvendo problemas do dia a dia dos usuários.
 Resolvo incidentes com aplicativos do pacote Office, como Word, Excel e Outlook.
-Administro o servidor Active Directory (AD), com gestão de usuários, grupos e permissões.
+Administro o servidor Active Directory (AD), com gestão de usuários, grupos e permissões, .
 
 ##  Em destaque
 
-** Sistema de Controle de Estoque e Empréstimos**  
+ ** Sistema de Controle de Estoque e Empréstimos **  
 Aplicação web para gerenciar estoque e empréstimos de itens, com interface em português.  
 `React` `Tailwind CSS` `Node.js` `Express` `Mysql`
 🔗 [Ver repositório](COLE-O-LINK-AQUI)
