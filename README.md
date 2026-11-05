@@ -23,9 +23,10 @@ Dou suporte ao ERP Protheus, atendendo dúvidas e resolvendo problemas do dia a 
 Resolvo incidentes com aplicativos do pacote Office, como Word, Excel e Outlook.
 Administro o servidor Active Directory (AD), com gestão de usuários, grupos e permissões, .
 
-##  Em destaque
+##  Projetos
 
- ** Sistema de Controle de Estoque e Empréstimos **  
+ **Sistema de Controle de Estoque e Empréstimos**  
+ 
 Aplicação web para gerenciar estoque e empréstimos de itens, com interface em português.  
 `React` `Tailwind CSS` `Node.js` `Express` `Mysql`
 🔗 [Ver repositório](COLE-O-LINK-AQUI)
